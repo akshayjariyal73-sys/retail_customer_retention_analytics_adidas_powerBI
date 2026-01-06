@@ -29,6 +29,8 @@ The project integrates **5 key datasets**:
 | **Loyalty Program** | 500 | Customer_ID, Loyalty_Tier, Points_Earned, Points_Redeemed |
 | **Store Locations** | 50+ | Store_ID, Store_Type, Region, Opening_Year |
 
+
+-<a href=""> </a>
 ---
 
 ## 🔧 Technical Stack
