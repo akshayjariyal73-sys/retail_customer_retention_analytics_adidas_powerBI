@@ -85,6 +85,7 @@ Deep dive into loyalty program and promotion effectiveness:
 - Points Earned vs. Redeemed (Clustered Column Chart)
 - Promotion impact on average purchase amount
 - No. of Loyal Customers and Regional breakdown
+-<a href="<img width="878" height="459" alt="image" src="https://github.com/user-attachments/assets/93ae6381-ab2c-4e05-bf34-b9705a6c9265"> </a>
 
 ### **Page 3: Store & Channel Performance**
 Channel and store type analysis:
@@ -93,7 +94,7 @@ Channel and store type analysis:
 - Total CLV by Store Type and Region
 - Transaction volume by channel
 - Correlation between store opening year and retention
-
+-<a href="<img width="870" height="465" alt="image" src="https://github.com/user-attachments/assets/3350f36c-1726-422d-b610-ea357d309afd"> </a>
 ### **Page 4: Customer Segmentation**
 Customer segments for targeted retention:
 - CLV Segments (Low, Medium, High CLV)
@@ -101,7 +102,7 @@ Customer segments for targeted retention:
 - Average CLV by segment
 - Churn Rate and Repeat Rate by segment
 - Priority matrix: High CLV + High Purchase Tier customers
-
+-<a href="<img width="875" height="467" alt="image" src="https://github.com/user-attachments/assets/2571ede5-7c43-4748-9c91-284840cec36b"> </a>
 ---
 
 ## 🛠️ Data Transformation & Modeling
