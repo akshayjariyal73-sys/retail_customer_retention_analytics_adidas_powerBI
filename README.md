@@ -311,10 +311,7 @@ Looking to collaborate on data science and analytics projects?
 
 ## 📌 Quick Links
 
-- [Power BI Dashboard](link-to-pbix-file)
-- [Project Data](link-to-data-folder)
-- [Video Demo](https://drive.google.com/file/d/1ivuPlrgljtmBFzbYaH1KwvnJGn4vX2CM/view?usp=sharing)
-- [GitHub Repository](link-to-repo)
+-<a href="https://github.com/akshayjariyal73-sys/Retail_Customer_Retention_Analytics-_ADIDAS-_PowerBI/blob/main/Retail%20Customer%20Retention%20Analytics%20%E2%80%93%20ADIDAS.pdf"> Project PDF </a>
 
 ---
 
